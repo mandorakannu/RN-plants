@@ -13,10 +13,20 @@ export default function Navbar() {
         style={styles.images}
         source={require("../assets/images/love.png")}
       />
-      <Image
-        style={styles.images}
-        source={require("../assets/images/touchid.png")}
-      />
+      <View
+        style={{
+          borderColor: colors.teal,
+          borderWidth: 2,
+          backgroundColor: colors.teal,
+          padding: 10,
+          borderRadius: 50,
+        }}
+      >
+        <Image
+          style={styles.images}
+          source={require("../assets/images/touchid.png")}
+        />
+      </View>
       <Image
         style={styles.images}
         source={require("../assets/images/bag.png")}
