@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Fiddle Leaf Fig",
+    "price": 25.99,
+    "image": 0,
+    "size": "Medium",
+    "height": "2-3 feet",
+    "humidity": "Moderate"
+  },
+  {
+    "name": "Snake Plant",
+    "price": 15.99,
+    "image": 1,
+    "size": "Small",
+    "height": "1-2 feet",
+    "humidity": "Low"
+  },
+  {
+    "name": "Monstera Deliciosa",
+    "price": 32.99,
+    "image": 2,
+    "size": "Large",
+    "height": "3-4 feet",
+    "humidity": "High"
+  },
+  {
+    "name": "Spider Plant",
+    "price": 12.99,
+    "image": 3,
+    "size": "Small",
+    "height": "1-2 feet",
+    "humidity": "Moderate"
+  },
+  {
+    "name": "Peace Lily",
+    "price": 18.99,
+    "image": 4,
+    "size": "Medium",
+    "height": "1-2 feet",
+    "humidity": "High"
+  },
+  {
+    "name": "Succulent Mix",
+    "price": 8.99,
+    "image": 5,
+    "size": "Small",
+    "height": "4-6 inches",
+    "humidity": "Low"
+  },
+  {
+    "name": "Aloe Vera",
+    "price": 14.99,
+    "image": 6,
+    "size": "Small",
+    "height": "6-12 inches",
+    "humidity": "Low"
+  },
+  {
+    "name": "Pothos",
+    "price": 10.99,
+    "image": 7,
+    "size": "Medium",
+    "height": "1-2 feet",
+    "humidity": "Moderate"
+  },
+  {
+    "name": "Rubber Plant",
+    "price": 22.99,
+    "image": 8,
+    "size": "Medium",
+    "height": "2-3 feet",
+    "humidity": "Moderate"
+  },
+  {
+    "name": "Lavender",
+    "price": 19.99,
+    "image": 9,
+    "size": "Small",
+    "height": "1-2 feet",
+    "humidity": "Low"
+  }
+]

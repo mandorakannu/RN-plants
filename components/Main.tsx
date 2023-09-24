@@ -2,6 +2,7 @@ import { StyleSheet, Text, View, Image } from "react-native";
 import React from "react";
 import { colors } from "../libs/colors";
 import Filter from "./Filter";
+import Plants from "./Plants";
 
 export default function Main() {
   return (
@@ -28,6 +29,7 @@ export default function Main() {
         </View>
       </View>
       <Filter />
+      <Plants />
     </>
   );
 }
