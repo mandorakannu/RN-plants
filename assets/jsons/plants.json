@@ -5,7 +5,8 @@
     "image": 0,
     "size": "Medium",
     "height": "2-3 feet",
-    "humidity": "Moderate"
+    "humidity": "Moderate",
+    "description": "Fiddle Leaf Fig plant is a species of flowering plant in the mulberry and fig family Moraceae. It is native to western Africa, from Cameroon west to Sierra Leone, where it grows in lowland tropical rainforest. It can grow up to 12–15 m tall. The leaves are large, leathery, glossy green, and deeply veined. It is a popular ornamental tree in subtropical and tropical gardens, and is also grown as a houseplant, where it usually stays shorter when put into pots than when grown outdoors."
   },
   {
     "name": "Snake Plant",
@@ -13,7 +14,8 @@
     "image": 1,
     "size": "Small",
     "height": "1-2 feet",
-    "humidity": "Low"
+    "humidity": "Low",
+    "description": "Snake Plant is a species of flowering plant in the family Asparagaceae, native to tropical West Africa from Nigeria east to the Congo. It is most commonly known as the snake plant, Saint George's sword, mother-in-law's tongue, and viper's bowstring hemp, among other names. It is now used predominantly as an ornamental plant, outdoors in warmer climates, and indoors as a houseplant in cooler climates. It is popular as a houseplant because it is tolerant of low light levels and irregular watering; during winter it needs only one watering every couple of months. It will rot easily if overwatered. It is commonly recommended for beginners, frequently found in lists of houseplants that can be difficult to kill."
   },
   {
     "name": "Monstera Deliciosa",
@@ -21,7 +23,8 @@
     "image": 2,
     "size": "Large",
     "height": "3-4 feet",
-    "humidity": "High"
+    "humidity": "High",
+    "description": "Monstera Deliciosa is a species of flowering plant native to tropical forests of southern Mexico, south to Panama. It has been introduced to many tropical areas, and has become a mildly invasive species in Hawaii, Seychelles, Ascension Island and the Society Islands. Common names include Swiss cheese plant, split-leaf philodendron, hurricane plant, or Mexican breadfruit, among many others. Monstera deliciosa is a climbing plant, easily recognizable to its large cut leaves that make it a popular plant. Young plants have leaves that are smaller and entire with no lobes or holes, but soon produce lobed and fenestrate leaves as they grow."
   },
   {
     "name": "Spider Plant",
@@ -29,7 +32,8 @@
     "image": 3,
     "size": "Small",
     "height": "1-2 feet",
-    "humidity": "Moderate"
+    "humidity": "Moderate",
+    "description": "Spider Plant is a species of perennial flowering plant. It is native to tropical and southern Africa, but has become naturalized in other parts of the world, including western Australia. Spider plants are easy to care for and require little water. They are great for beginners! Spider plants are also great for small spaces. They can be placed on a desk or a windowsill."
   },
   {
     "name": "Peace Lily",
@@ -37,7 +41,8 @@
     "image": 4,
     "size": "Medium",
     "height": "1-2 feet",
-    "humidity": "High"
+    "humidity": "High",
+    "description": "Peace Lily is a species of flowering plant in the family Araceae, native to tropical regions of the Americas and southeastern Asia. It is a clump-growing herbaceous perennial which produces white flowers which look like the hood of a cobra. It is sometimes called the white sail plant. Peace lilies are easy to care for and require little water. They are great for beginners! Peace lilies are also great for small spaces. They can be placed on a desk or a windowsill."
   },
   {
     "name": "Succulent Mix",
@@ -45,7 +50,8 @@
     "image": 5,
     "size": "Small",
     "height": "4-6 inches",
-    "humidity": "Low"
+    "humidity": "Low",
+    "description": "Succulent Mix is a mix of succulents. Succulents are easy to care for and require little water. They are great for beginners! Succulents are also great for small spaces. They can be placed on a desk or a windowsill."
   },
   {
     "name": "Aloe Vera",
@@ -53,7 +59,8 @@
     "image": 6,
     "size": "Small",
     "height": "6-12 inches",
-    "humidity": "Low"
+    "humidity": "Low",
+    "description": "This is a small aloe vera plant. Aloe vera plants are easy to care for and require little water. They are great for beginners! Aloe vera plants are also great for small spaces. They can be placed on a desk or a windowsill."
   },
   {
     "name": "Pothos",
@@ -61,7 +68,8 @@
     "image": 7,
     "size": "Medium",
     "height": "1-2 feet",
-    "humidity": "Moderate"
+    "humidity": "Moderate",
+    "description": "The plant you receive may look different than the one pictured. The plant you receive may have more or less leaves than the one pictured. The plant you receive may have more or less variegation than the one pictured."
   },
   {
     "name": "Rubber Plant",
@@ -69,7 +77,8 @@
     "image": 8,
     "size": "Medium",
     "height": "2-3 feet",
-    "humidity": "Moderate"
+    "humidity": "Moderate",
+    "description": "Rubber Plant is a species of flowering plant in the family Moraceae. It is native to southern China, Taiwan, the Indian subcontinent, and Indochina. It is a large tree in the fig family, growing to 20–30 m tall, with stout trunk supporting a spreading crown. It is a popular ornamental plant in subtropical and tropical gardens, and is also grown as a houseplant, where it usually stays shorter when put into pots than when grown outdoors."
   },
   {
     "name": "Lavender",
@@ -77,6 +86,7 @@
     "image": 9,
     "size": "Small",
     "height": "1-2 feet",
-    "humidity": "Low"
+    "humidity": "Low",
+    "description": "Lavender is a genus of 47 known species of flowering plants in the mint family, Lamiaceae. It is native to the Old World and is found from Cape Verde and the Canary Islands, Europe across to northern and eastern Africa, the Mediterranean, southwest Asia to southeast India. Many members of the genus are cultivated extensively in temperate climates as ornamental plants for garden and landscape use, for use as culinary herbs, and also commercially for the extraction of essential oils. The most widely cultivated species, Lavandula angustifolia, is often referred to as lavender, and there is a color named for the shade of the flowers of this species."
   }
 ]

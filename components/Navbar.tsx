@@ -1,18 +1,23 @@
 import { StyleSheet, Image, View } from "react-native";
 import React from "react";
 import { colors } from "../libs/colors";
+import { Link } from "react-router-native";
 
 export default function Navbar() {
   return (
     <View style={styles.container}>
-      <Image
-        style={styles.images}
-        source={require("../assets/images/home.png")}
-      />
-      <Image
-        style={styles.images}
-        source={require("../assets/images/love.png")}
-      />
+      <Link to="/" underlayColor={"transparent"}>
+        <Image
+          style={styles.images}
+          source={require("../assets/images/home.png")}
+        />
+      </Link>
+      <Link to="/cart" underlayColor={"transparent"}>
+        <Image
+          style={styles.images}
+          source={require("../assets/images/love.png")}
+        />
+      </Link>
       <View
         style={{
           borderColor: colors.teal,
@@ -22,19 +27,25 @@ export default function Navbar() {
           borderRadius: 50,
         }}
       >
+        <Link to="/mandorakannu" underlayColor={"transparent"}>
+          <Image
+            style={styles.images}
+            source={require("../assets/images/touchid.png")}
+          />
+        </Link>
+      </View>
+      <Link to="/shoping" underlayColor={"transparent"}>
         <Image
           style={styles.images}
-          source={require("../assets/images/touchid.png")}
+          source={require("../assets/images/bag.png")}
         />
-      </View>
-      <Image
-        style={styles.images}
-        source={require("../assets/images/bag.png")}
-      />
-      <Image
-        style={styles.images}
-        source={require("../assets/images/person.png")}
-      />
+      </Link>
+      <Link to="/profile" underlayColor={"transparent"}>
+        <Image
+          style={styles.images}
+          source={require("../assets/images/person.png")}
+        />
+      </Link>
     </View>
   );
 }
