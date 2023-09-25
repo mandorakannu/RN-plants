@@ -18,22 +18,22 @@ export default function Navbar() {
           source={require("../assets/images/love.png")}
         />
       </Link>
-      <View
-        style={{
-          borderColor: colors.teal,
-          borderWidth: 2,
-          backgroundColor: colors.teal,
-          padding: 10,
-          borderRadius: 50,
-        }}
-      >
-        <Link to="/mandorakannu" underlayColor={"transparent"}>
+      <Link to="/mandorakannu" underlayColor={"transparent"}>
+        <View
+          style={{
+            borderColor: colors.teal,
+            borderWidth: 2,
+            backgroundColor: colors.teal,
+            padding: 10,
+            borderRadius: 50,
+          }}
+        >
           <Image
             style={styles.images}
             source={require("../assets/images/touchid.png")}
           />
-        </Link>
-      </View>
+        </View>
+      </Link>
       <Link to="/shoping" underlayColor={"transparent"}>
         <Image
           style={styles.images}

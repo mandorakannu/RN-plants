@@ -6,6 +6,7 @@ import UniquePlant from "./components/UniquePlant";
 import Cart from "./components/Cart";
 import Mandorakannu from "./components/Mandorakannu";
 import { colors } from "./libs/colors";
+import Shop from "./components/Shop";
 
 function App(): JSX.Element {
   return (
@@ -17,6 +18,8 @@ function App(): JSX.Element {
             <Route path="/" element={<Main />} />
             <Route path="/cart" element={<Cart />} />
             <Route path="/mandorakannu" element={<Mandorakannu />} />
+            <Route path="/profile" element={<Mandorakannu />} />
+            <Route path="/shoping" element={<Shop />} />
             <Route path="/:name" element={<UniquePlant />} />
           </Routes>
         </ScrollView>
