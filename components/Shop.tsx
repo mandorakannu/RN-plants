@@ -14,7 +14,7 @@ export default function Shop() {
           <Text style={styles.plantPrice}>{"$" + price}</Text>
           <Image style={styles.image} source={images[image]} />
           <View style={styles.btnCard}>
-            <Link to={name.split(" ").join("-")} underlayColor={"transparent"}>
+            <Link to={`/${name.split(" ").join("-")}`} underlayColor={"transparent"}>
               <Text style={styles.addToCardBtn}>Buy Now</Text>
             </Link>
             <View style={styles.loveIconView}>
